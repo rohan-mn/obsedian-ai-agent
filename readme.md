@@ -140,7 +140,6 @@ Contributing
 	- Adding logging instead of print statements.
 	- Adding unit tests for file-path safety helpers.
 
-License
-- No license is specified. Add a LICENSE file if you intend to publish or share this repository.
+
 
 
