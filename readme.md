@@ -85,8 +85,8 @@ ollama list
 Clone the repository:
 
 ```powershell
-git clone https://github.com/rohan-mn/obsedian-ai-agent.git
-cd obsedian-ai-agent
+git clone https://github.com/rohan-mn/obsidian-ai-agent.git
+cd obsidian-ai-agent
 ```
 
 Create and activate a virtual environment:
